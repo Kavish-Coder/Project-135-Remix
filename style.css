@@ -8,9 +8,13 @@ body {
     margin: 0px;
 }
 
-#start, #status, #number_of_objects, #object {
+#start, #status, #number_of_objects {
     font-size: 18px;
-    width: 27%;
+}
+
+#object {
+    font-size: 18px;
+    width: 159px;
 }
 
 .copyright_footer {
